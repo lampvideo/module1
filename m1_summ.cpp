@@ -1,6 +1,6 @@
 #include <iostream>
 
-int summ(int a, int b)
+int summ(int a, int b, int c, int d)
 {
-	return a + b;
+	return a + b + c +d;
 }
